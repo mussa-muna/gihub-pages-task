@@ -9,7 +9,7 @@ This is a basic static website created using GitHub Pages and Markdown.
 
 ## Images
 
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo0mmZJMdbTmTAHkMYRRLIXOSFSg4fhbhG7Q&usqp=CAU)
 
 ## Tables
 
